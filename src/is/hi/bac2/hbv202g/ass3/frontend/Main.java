@@ -1,3 +1,7 @@
+package src.is.hi.bac2.hbv202g.ass3.frontend;
+
+import src.is.hi.bac2.hbv202g.ass3.backend.Greeter;
+
 public class Main {
 
 	public static void main(String[] args) {
