@@ -1,6 +1,6 @@
-package src.is.hi.bac2.hbv202g.ass3.frontend;
+package is.hi.bac2.hbv202g.ass3.frontend;
 
-import src.is.hi.bac2.hbv202g.ass3.backend.Greeter;
+import is.hi.bac2.hbv202g.ass3.backend.Greeter;
 
 public class Main {
 
